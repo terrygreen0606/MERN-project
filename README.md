@@ -1,6 +1,8 @@
 # MERN-boilerplate
 MERN-boilerplate for adding/reading posts and comments
 
+This has also integrated jsonwebtoken with fully working lost and reset password function in the login page.
+
 ### After cloning
 npm run client-install
 
